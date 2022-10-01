@@ -19,6 +19,7 @@
     "mongodb": "^4.9.1",
     "nodemailer": "^6.7.8",
     "nodemailer-sendgrid-transport": "^0.2.0",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "stripe": "^10.12.0"
   }
 }
